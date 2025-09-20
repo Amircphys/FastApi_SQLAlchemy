@@ -1,3 +1,7 @@
 env/*
 .idea/*
 __pycache__/*
+users/__pycache__/__init__.cpython-311.pyc
+users/__pycache__/crud.cpython-311.pyc
+users/__pycache__/schemas.cpython-311.pyc
+users/__pycache__/views.cpython-311.pyc
